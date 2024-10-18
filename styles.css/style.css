@@ -1,9 +1,13 @@
 @import url("./style/header.css");
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/.carrosel.css");
+
 :root{
     --preto: #0000;
     --font-size: 'Poppins', 'sans serif';
     --branco: #ffffff;
-    --azul: #002f52;
+    --azul-degrade: linear-gradient(97.54deg, #002f52, 35.49%, #328589, 165.37%);
     --laranja: #EB9B00;
 }
 
